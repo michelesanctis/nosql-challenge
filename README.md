@@ -78,12 +78,3 @@ Unless otherwise stated, for each question:
     Hint: You will need to compare the geocode to find the nearest locations. Search within 0.01 degree on either side of the latitude and longitude.
     4. How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
     Hint: You will need to use the aggregation method to answer this.
-
-The first 5 rows of your resulting DataFrame should look something like this:
-
-        _id	          count
-0	      Thanet	      1130
-1	      Greenwich	    882
-2	      Maidstone	    713
-3	      Newham	      711
-4    	  Swale	        686
